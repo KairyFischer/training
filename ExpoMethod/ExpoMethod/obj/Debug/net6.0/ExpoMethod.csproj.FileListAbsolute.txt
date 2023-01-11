@@ -1,0 +1,15 @@
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\bin\Debug\net6.0\ExpoMethod.exe
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\bin\Debug\net6.0\ExpoMethod.deps.json
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\bin\Debug\net6.0\ExpoMethod.runtimeconfig.json
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\bin\Debug\net6.0\ExpoMethod.dll
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\bin\Debug\net6.0\ExpoMethod.pdb
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.csproj.AssemblyReference.cache
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.AssemblyInfoInputs.cache
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.AssemblyInfo.cs
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.csproj.CoreCompileInputs.cache
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.dll
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\refint\ExpoMethod.dll
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.pdb
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ExpoMethod.genruntimeconfig.cache
+C:\Users\Praktikant1\source\repos\ExpoMethod\ExpoMethod\obj\Debug\net6.0\ref\ExpoMethod.dll
